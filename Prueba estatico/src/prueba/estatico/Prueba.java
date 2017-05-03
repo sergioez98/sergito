@@ -14,6 +14,7 @@ import java.util.Scanner;
  * @author admin
  */
 class Prueba {
+	int i;
 
     public void Show() {
         System.out.println("Dentro de Show");
